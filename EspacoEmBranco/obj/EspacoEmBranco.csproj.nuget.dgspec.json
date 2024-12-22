@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\DIO- Git e GitHub\\CSHARP\\PrimeiroAppTeste\\PrimeiroAppTeste.csproj": {}
+    "C:\\DIO- Git e GitHub\\CSHARP\\EspacoEmBranco\\EspacoEmBranco.csproj": {}
   },
   "projects": {
-    "c:\\DIO- Git e GitHub\\CSHARP\\PrimeiroAppTeste\\PrimeiroAppTeste.csproj": {
+    "C:\\DIO- Git e GitHub\\CSHARP\\EspacoEmBranco\\EspacoEmBranco.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\DIO- Git e GitHub\\CSHARP\\PrimeiroAppTeste\\PrimeiroAppTeste.csproj",
-        "projectName": "PrimeiroAppTeste",
-        "projectPath": "c:\\DIO- Git e GitHub\\CSHARP\\PrimeiroAppTeste\\PrimeiroAppTeste.csproj",
+        "projectUniqueName": "C:\\DIO- Git e GitHub\\CSHARP\\EspacoEmBranco\\EspacoEmBranco.csproj",
+        "projectName": "EspacoEmBranco",
+        "projectPath": "C:\\DIO- Git e GitHub\\CSHARP\\EspacoEmBranco\\EspacoEmBranco.csproj",
         "packagesPath": "C:\\Users\\sofia\\.nuget\\packages\\",
-        "outputPath": "c:\\DIO- Git e GitHub\\CSHARP\\PrimeiroAppTeste\\obj\\",
+        "outputPath": "C:\\DIO- Git e GitHub\\CSHARP\\EspacoEmBranco\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sofia\\AppData\\Roaming\\NuGet\\NuGet.Config"
