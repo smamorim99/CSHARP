@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\DIO- Git e GitHub\\CSHARP\\RegrasDeNegocio\\RegrasDeNegocio.csproj": {}
+    "C:\\DIO- Git e GitHub\\CSHARP\\RegrasDeNegocio\\RegrasDeNegocio.csproj": {}
   },
   "projects": {
-    "c:\\DIO- Git e GitHub\\CSHARP\\RegrasDeNegocio\\RegrasDeNegocio.csproj": {
+    "C:\\DIO- Git e GitHub\\CSHARP\\RegrasDeNegocio\\RegrasDeNegocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\DIO- Git e GitHub\\CSHARP\\RegrasDeNegocio\\RegrasDeNegocio.csproj",
+        "projectUniqueName": "C:\\DIO- Git e GitHub\\CSHARP\\RegrasDeNegocio\\RegrasDeNegocio.csproj",
         "projectName": "RegrasDeNegocio",
-        "projectPath": "c:\\DIO- Git e GitHub\\CSHARP\\RegrasDeNegocio\\RegrasDeNegocio.csproj",
+        "projectPath": "C:\\DIO- Git e GitHub\\CSHARP\\RegrasDeNegocio\\RegrasDeNegocio.csproj",
         "packagesPath": "C:\\Users\\sofia\\.nuget\\packages\\",
-        "outputPath": "c:\\DIO- Git e GitHub\\CSHARP\\RegrasDeNegocio\\obj\\",
+        "outputPath": "C:\\DIO- Git e GitHub\\CSHARP\\RegrasDeNegocio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sofia\\AppData\\Roaming\\NuGet\\NuGet.Config"
