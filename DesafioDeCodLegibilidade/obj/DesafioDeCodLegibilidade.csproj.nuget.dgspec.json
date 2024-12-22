@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DIO- Git e GitHub\\CSHARP\\PrimeiroAppTeste\\PrimeiroAppTeste.csproj": {}
+    "C:\\DIO- Git e GitHub\\CSHARP\\DesafioDeCodLegibilidade\\DesafioDeCodLegibilidade.csproj": {}
   },
   "projects": {
-    "C:\\DIO- Git e GitHub\\CSHARP\\PrimeiroAppTeste\\PrimeiroAppTeste.csproj": {
+    "C:\\DIO- Git e GitHub\\CSHARP\\DesafioDeCodLegibilidade\\DesafioDeCodLegibilidade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DIO- Git e GitHub\\CSHARP\\PrimeiroAppTeste\\PrimeiroAppTeste.csproj",
-        "projectName": "PrimeiroAppTeste",
-        "projectPath": "C:\\DIO- Git e GitHub\\CSHARP\\PrimeiroAppTeste\\PrimeiroAppTeste.csproj",
+        "projectUniqueName": "C:\\DIO- Git e GitHub\\CSHARP\\DesafioDeCodLegibilidade\\DesafioDeCodLegibilidade.csproj",
+        "projectName": "DesafioDeCodLegibilidade",
+        "projectPath": "C:\\DIO- Git e GitHub\\CSHARP\\DesafioDeCodLegibilidade\\DesafioDeCodLegibilidade.csproj",
         "packagesPath": "C:\\Users\\sofia\\.nuget\\packages\\",
-        "outputPath": "C:\\DIO- Git e GitHub\\CSHARP\\PrimeiroAppTeste\\obj\\",
+        "outputPath": "C:\\DIO- Git e GitHub\\CSHARP\\DesafioDeCodLegibilidade\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sofia\\AppData\\Roaming\\NuGet\\NuGet.Config"
