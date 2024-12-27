@@ -1,0 +1,15 @@
+C:\DIO- Git e GitHub\CSHARP\Projeto Guiado\bin\Debug\net9.0\Projeto Guiado.exe
+C:\DIO- Git e GitHub\CSHARP\Projeto Guiado\bin\Debug\net9.0\Projeto Guiado.deps.json
+C:\DIO- Git e GitHub\CSHARP\Projeto Guiado\bin\Debug\net9.0\Projeto Guiado.runtimeconfig.json
+C:\DIO- Git e GitHub\CSHARP\Projeto Guiado\bin\Debug\net9.0\Projeto Guiado.dll
+C:\DIO- Git e GitHub\CSHARP\Projeto Guiado\bin\Debug\net9.0\Projeto Guiado.pdb
+C:\DIO- Git e GitHub\CSHARP\Projeto Guiado\obj\Debug\net9.0\Projeto Guiado.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO- Git e GitHub\CSHARP\Projeto Guiado\obj\Debug\net9.0\Projeto Guiado.AssemblyInfoInputs.cache
+C:\DIO- Git e GitHub\CSHARP\Projeto Guiado\obj\Debug\net9.0\Projeto Guiado.AssemblyInfo.cs
+C:\DIO- Git e GitHub\CSHARP\Projeto Guiado\obj\Debug\net9.0\Projeto Guiado.csproj.CoreCompileInputs.cache
+C:\DIO- Git e GitHub\CSHARP\Projeto Guiado\obj\Debug\net9.0\Projeto Guiado.sourcelink.json
+C:\DIO- Git e GitHub\CSHARP\Projeto Guiado\obj\Debug\net9.0\Projeto Guiado.dll
+C:\DIO- Git e GitHub\CSHARP\Projeto Guiado\obj\Debug\net9.0\refint\Projeto Guiado.dll
+C:\DIO- Git e GitHub\CSHARP\Projeto Guiado\obj\Debug\net9.0\Projeto Guiado.pdb
+C:\DIO- Git e GitHub\CSHARP\Projeto Guiado\obj\Debug\net9.0\Projeto Guiado.genruntimeconfig.cache
+C:\DIO- Git e GitHub\CSHARP\Projeto Guiado\obj\Debug\net9.0\ref\Projeto Guiado.dll

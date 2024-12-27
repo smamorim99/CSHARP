@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesafioDeCodLegibilidade")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2cad6c184d8e60624ae2e810f182c2c7e0ead030")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04de53069c61c22ad714607df3835a9c7db6d2a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesafioDeCodLegibilidade")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesafioDeCodLegibilidade")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
