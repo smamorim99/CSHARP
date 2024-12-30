@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressoesBooleanas", "Expr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstudoOperadorCondicional", "EstudoOperadorCondicional\EstudoOperadorCondicional.csproj", "{96C2E4F5-9E89-4DEF-AAAD-66F0189B1B82}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioDeCodBoo", "DesafioDeCodBoo\DesafioDeCodBoo.csproj", "{BBDD44F9-3E0B-419D-A6CE-FD3A74386B11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{96C2E4F5-9E89-4DEF-AAAD-66F0189B1B82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96C2E4F5-9E89-4DEF-AAAD-66F0189B1B82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96C2E4F5-9E89-4DEF-AAAD-66F0189B1B82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBDD44F9-3E0B-419D-A6CE-FD3A74386B11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBDD44F9-3E0B-419D-A6CE-FD3A74386B11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBDD44F9-3E0B-419D-A6CE-FD3A74386B11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBDD44F9-3E0B-419D-A6CE-FD3A74386B11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
