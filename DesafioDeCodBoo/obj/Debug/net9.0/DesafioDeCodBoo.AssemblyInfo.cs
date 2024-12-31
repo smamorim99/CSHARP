@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesafioDeCodBoo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6db01c7cfc71347cf06dedcd21c8a47f1b88973")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73caa746971a34d70999d4a146d4a8cb07e15763")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesafioDeCodBoo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesafioDeCodBoo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
