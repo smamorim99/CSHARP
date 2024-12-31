@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioDeCodBoo", "DesafioD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioDeLogica", "DesafioDeLogica\DesafioDeLogica.csproj", "{1B1DA6D1-C1FB-4D0B-B4ED-76AC19801489}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "estudoBlocoDeCod", "estudoBlocoDeCod\estudoBlocoDeCod.csproj", "{5869ADC6-9724-454C-9CB5-32C948A21B5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -96,5 +98,9 @@ Global
 		{1B1DA6D1-C1FB-4D0B-B4ED-76AC19801489}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B1DA6D1-C1FB-4D0B-B4ED-76AC19801489}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B1DA6D1-C1FB-4D0B-B4ED-76AC19801489}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5869ADC6-9724-454C-9CB5-32C948A21B5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5869ADC6-9724-454C-9CB5-32C948A21B5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5869ADC6-9724-454C-9CB5-32C948A21B5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5869ADC6-9724-454C-9CB5-32C948A21B5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
