@@ -37,6 +37,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioBlocosDeCod", "Exe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioBlocodeCod", "DesafioBlocodeCod\DesafioBlocodeCod.csproj", "{19360AEC-319E-467D-BFEF-0C6D9E4DF8DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioSwithCase", "ExercicioSwithCase\ExercicioSwithCase.csproj", "{9C075CEA-0C91-49A1-B5AA-7AF6F4781D92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeafioSwitchCase", "DeafioSwitchCase\DeafioSwitchCase.csproj", "{6AA9B612-0429-4A44-B502-1AAE2887C88F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -114,5 +118,13 @@ Global
 		{19360AEC-319E-467D-BFEF-0C6D9E4DF8DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19360AEC-319E-467D-BFEF-0C6D9E4DF8DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19360AEC-319E-467D-BFEF-0C6D9E4DF8DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C075CEA-0C91-49A1-B5AA-7AF6F4781D92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C075CEA-0C91-49A1-B5AA-7AF6F4781D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C075CEA-0C91-49A1-B5AA-7AF6F4781D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C075CEA-0C91-49A1-B5AA-7AF6F4781D92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AA9B612-0429-4A44-B502-1AAE2887C88F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AA9B612-0429-4A44-B502-1AAE2887C88F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AA9B612-0429-4A44-B502-1AAE2887C88F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AA9B612-0429-4A44-B502-1AAE2887C88F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
