@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioSwithCase", "Exerc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeafioSwitchCase", "DeafioSwitchCase\DeafioSwitchCase.csproj", "{6AA9B612-0429-4A44-B502-1AAE2887C88F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioInstrucaoFor", "ExercicioInstrucaoFor\ExercicioInstrucaoFor.csproj", "{49AF8F28-74AC-4DAC-8A4B-AADE8AADD3CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -126,5 +128,9 @@ Global
 		{6AA9B612-0429-4A44-B502-1AAE2887C88F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AA9B612-0429-4A44-B502-1AAE2887C88F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AA9B612-0429-4A44-B502-1AAE2887C88F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49AF8F28-74AC-4DAC-8A4B-AADE8AADD3CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49AF8F28-74AC-4DAC-8A4B-AADE8AADD3CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49AF8F28-74AC-4DAC-8A4B-AADE8AADD3CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49AF8F28-74AC-4DAC-8A4B-AADE8AADD3CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

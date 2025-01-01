@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DeafioSwitchCase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c69ba735ed6d411cdad60881a8f3dea420e2f1ba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62f20b5ceffe54b9c7129191ac7c9e9958ab67bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("DeafioSwitchCase")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DeafioSwitchCase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

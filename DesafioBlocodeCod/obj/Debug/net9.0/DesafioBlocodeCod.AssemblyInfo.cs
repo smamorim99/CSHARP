@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesafioBlocodeCod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73caa746971a34d70999d4a146d4a8cb07e15763")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62f20b5ceffe54b9c7129191ac7c9e9958ab67bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesafioBlocodeCod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesafioBlocodeCod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
