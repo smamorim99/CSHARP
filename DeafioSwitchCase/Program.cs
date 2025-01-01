@@ -1,4 +1,5 @@
-﻿// SKU = Stock Keeping Unit. 
+﻿
+// SKU = Stock Keeping Unit. 
 // SKU value format: <product #>-<2-letter color code>-<size code>
 using System.Threading.Tasks.Dataflow;
 
