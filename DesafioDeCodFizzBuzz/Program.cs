@@ -12,6 +12,7 @@
     Console.WriteLine(i);
 
 }
-    
+
+/*Criar um programa que verifique se os numeros de 1 a 100 são divisivel por 3, 5 ou ambos*/
 
 
