@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioInstrucaoFor", "Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioDeCodFizzBuzz", "DesafioDeCodFizzBuzz\DesafioDeCodFizzBuzz.csproj", "{47AD3325-FA6A-44EA-BCC5-FD8A4BAECB17}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioInstrucaoWhile", "ExercicioInstrucaoWhile\ExercicioInstrucaoWhile.csproj", "{E95E501E-C627-418E-BCDD-641B25635C91}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -138,5 +140,9 @@ Global
 		{47AD3325-FA6A-44EA-BCC5-FD8A4BAECB17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47AD3325-FA6A-44EA-BCC5-FD8A4BAECB17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47AD3325-FA6A-44EA-BCC5-FD8A4BAECB17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E95E501E-C627-418E-BCDD-641B25635C91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E95E501E-C627-418E-BCDD-641B25635C91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E95E501E-C627-418E-BCDD-641B25635C91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E95E501E-C627-418E-BCDD-641B25635C91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
