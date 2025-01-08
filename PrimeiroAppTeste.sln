@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafiodeCodValirdarEntrada
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioDeCogValidacaoString", "DesafioDeCogValidacaoString\DesafioDeCogValidacaoString.csproj", "{6C1D66AB-759B-4D1F-9AF5-268C149CD8F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioDeCodMatrizDeChar", "DesafioDeCodMatrizDeChar\DesafioDeCodMatrizDeChar.csproj", "{09A5E26D-C440-4AD9-8D42-0DAF7F6155BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -162,5 +164,9 @@ Global
 		{6C1D66AB-759B-4D1F-9AF5-268C149CD8F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C1D66AB-759B-4D1F-9AF5-268C149CD8F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C1D66AB-759B-4D1F-9AF5-268C149CD8F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09A5E26D-C440-4AD9-8D42-0DAF7F6155BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09A5E26D-C440-4AD9-8D42-0DAF7F6155BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09A5E26D-C440-4AD9-8D42-0DAF7F6155BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09A5E26D-C440-4AD9-8D42-0DAF7F6155BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

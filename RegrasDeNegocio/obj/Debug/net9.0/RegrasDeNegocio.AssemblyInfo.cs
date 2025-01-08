@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RegrasDeNegocio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3e48d6bdb626b835f91482a816127e785570ea3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d560b5f3999d197f7b5bf4062c804b33c8c0b94")]
 [assembly: System.Reflection.AssemblyProductAttribute("RegrasDeNegocio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RegrasDeNegocio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
