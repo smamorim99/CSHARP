@@ -1,0 +1,15 @@
+C:\VSCodeProjects\CSHARP\EstudosEX\tiposDeDados\bin\Debug\net9.0\tiposDeDados.exe
+C:\VSCodeProjects\CSHARP\EstudosEX\tiposDeDados\bin\Debug\net9.0\tiposDeDados.deps.json
+C:\VSCodeProjects\CSHARP\EstudosEX\tiposDeDados\bin\Debug\net9.0\tiposDeDados.runtimeconfig.json
+C:\VSCodeProjects\CSHARP\EstudosEX\tiposDeDados\bin\Debug\net9.0\tiposDeDados.dll
+C:\VSCodeProjects\CSHARP\EstudosEX\tiposDeDados\bin\Debug\net9.0\tiposDeDados.pdb
+C:\VSCodeProjects\CSHARP\EstudosEX\tiposDeDados\obj\Debug\net9.0\tiposDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCodeProjects\CSHARP\EstudosEX\tiposDeDados\obj\Debug\net9.0\tiposDeDados.AssemblyInfoInputs.cache
+C:\VSCodeProjects\CSHARP\EstudosEX\tiposDeDados\obj\Debug\net9.0\tiposDeDados.AssemblyInfo.cs
+C:\VSCodeProjects\CSHARP\EstudosEX\tiposDeDados\obj\Debug\net9.0\tiposDeDados.csproj.CoreCompileInputs.cache
+C:\VSCodeProjects\CSHARP\EstudosEX\tiposDeDados\obj\Debug\net9.0\tiposDeDados.sourcelink.json
+C:\VSCodeProjects\CSHARP\EstudosEX\tiposDeDados\obj\Debug\net9.0\tiposDeDados.dll
+C:\VSCodeProjects\CSHARP\EstudosEX\tiposDeDados\obj\Debug\net9.0\refint\tiposDeDados.dll
+C:\VSCodeProjects\CSHARP\EstudosEX\tiposDeDados\obj\Debug\net9.0\tiposDeDados.pdb
+C:\VSCodeProjects\CSHARP\EstudosEX\tiposDeDados\obj\Debug\net9.0\tiposDeDados.genruntimeconfig.cache
+C:\VSCodeProjects\CSHARP\EstudosEX\tiposDeDados\obj\Debug\net9.0\ref\tiposDeDados.dll
