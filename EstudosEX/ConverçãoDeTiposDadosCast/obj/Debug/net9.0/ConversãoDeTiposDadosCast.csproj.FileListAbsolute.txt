@@ -1,0 +1,15 @@
+C:\VSCodeProjects\CSHARP\EstudosEX\ConverçãoDeTiposDadosCast\bin\Debug\net9.0\ConversãoDeTiposDadosCast.exe
+C:\VSCodeProjects\CSHARP\EstudosEX\ConverçãoDeTiposDadosCast\bin\Debug\net9.0\ConversãoDeTiposDadosCast.deps.json
+C:\VSCodeProjects\CSHARP\EstudosEX\ConverçãoDeTiposDadosCast\bin\Debug\net9.0\ConversãoDeTiposDadosCast.runtimeconfig.json
+C:\VSCodeProjects\CSHARP\EstudosEX\ConverçãoDeTiposDadosCast\bin\Debug\net9.0\ConversãoDeTiposDadosCast.dll
+C:\VSCodeProjects\CSHARP\EstudosEX\ConverçãoDeTiposDadosCast\bin\Debug\net9.0\ConversãoDeTiposDadosCast.pdb
+C:\VSCodeProjects\CSHARP\EstudosEX\ConverçãoDeTiposDadosCast\obj\Debug\net9.0\ConversãoDeTiposDadosCast.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCodeProjects\CSHARP\EstudosEX\ConverçãoDeTiposDadosCast\obj\Debug\net9.0\ConversãoDeTiposDadosCast.AssemblyInfoInputs.cache
+C:\VSCodeProjects\CSHARP\EstudosEX\ConverçãoDeTiposDadosCast\obj\Debug\net9.0\ConversãoDeTiposDadosCast.AssemblyInfo.cs
+C:\VSCodeProjects\CSHARP\EstudosEX\ConverçãoDeTiposDadosCast\obj\Debug\net9.0\ConversãoDeTiposDadosCast.csproj.CoreCompileInputs.cache
+C:\VSCodeProjects\CSHARP\EstudosEX\ConverçãoDeTiposDadosCast\obj\Debug\net9.0\ConversãoDeTiposDadosCast.sourcelink.json
+C:\VSCodeProjects\CSHARP\EstudosEX\ConverçãoDeTiposDadosCast\obj\Debug\net9.0\ConversãoDeTiposDadosCast.dll
+C:\VSCodeProjects\CSHARP\EstudosEX\ConverçãoDeTiposDadosCast\obj\Debug\net9.0\refint\ConversãoDeTiposDadosCast.dll
+C:\VSCodeProjects\CSHARP\EstudosEX\ConverçãoDeTiposDadosCast\obj\Debug\net9.0\ConversãoDeTiposDadosCast.pdb
+C:\VSCodeProjects\CSHARP\EstudosEX\ConverçãoDeTiposDadosCast\obj\Debug\net9.0\ConversãoDeTiposDadosCast.genruntimeconfig.cache
+C:\VSCodeProjects\CSHARP\EstudosEX\ConverçãoDeTiposDadosCast\obj\Debug\net9.0\ref\ConversãoDeTiposDadosCast.dll
