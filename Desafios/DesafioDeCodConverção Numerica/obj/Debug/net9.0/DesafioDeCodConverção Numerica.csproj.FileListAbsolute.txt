@@ -1,0 +1,15 @@
+C:\VSCodeProjects\CSHARP\Desafios\DesafioDeCodConverção Numerica\bin\Debug\net9.0\DesafioDeCodConverção Numerica.exe
+C:\VSCodeProjects\CSHARP\Desafios\DesafioDeCodConverção Numerica\bin\Debug\net9.0\DesafioDeCodConverção Numerica.deps.json
+C:\VSCodeProjects\CSHARP\Desafios\DesafioDeCodConverção Numerica\bin\Debug\net9.0\DesafioDeCodConverção Numerica.runtimeconfig.json
+C:\VSCodeProjects\CSHARP\Desafios\DesafioDeCodConverção Numerica\bin\Debug\net9.0\DesafioDeCodConverção Numerica.dll
+C:\VSCodeProjects\CSHARP\Desafios\DesafioDeCodConverção Numerica\bin\Debug\net9.0\DesafioDeCodConverção Numerica.pdb
+C:\VSCodeProjects\CSHARP\Desafios\DesafioDeCodConverção Numerica\obj\Debug\net9.0\DesafioDeCodConverção Numerica.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCodeProjects\CSHARP\Desafios\DesafioDeCodConverção Numerica\obj\Debug\net9.0\DesafioDeCodConverção Numerica.AssemblyInfoInputs.cache
+C:\VSCodeProjects\CSHARP\Desafios\DesafioDeCodConverção Numerica\obj\Debug\net9.0\DesafioDeCodConverção Numerica.AssemblyInfo.cs
+C:\VSCodeProjects\CSHARP\Desafios\DesafioDeCodConverção Numerica\obj\Debug\net9.0\DesafioDeCodConverção Numerica.csproj.CoreCompileInputs.cache
+C:\VSCodeProjects\CSHARP\Desafios\DesafioDeCodConverção Numerica\obj\Debug\net9.0\DesafioDeCodConverção Numerica.sourcelink.json
+C:\VSCodeProjects\CSHARP\Desafios\DesafioDeCodConverção Numerica\obj\Debug\net9.0\DesafioDeCodConverção Numerica.dll
+C:\VSCodeProjects\CSHARP\Desafios\DesafioDeCodConverção Numerica\obj\Debug\net9.0\refint\DesafioDeCodConverção Numerica.dll
+C:\VSCodeProjects\CSHARP\Desafios\DesafioDeCodConverção Numerica\obj\Debug\net9.0\DesafioDeCodConverção Numerica.pdb
+C:\VSCodeProjects\CSHARP\Desafios\DesafioDeCodConverção Numerica\obj\Debug\net9.0\DesafioDeCodConverção Numerica.genruntimeconfig.cache
+C:\VSCodeProjects\CSHARP\Desafios\DesafioDeCodConverção Numerica\obj\Debug\net9.0\ref\DesafioDeCodConverção Numerica.dll

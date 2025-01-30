@@ -28,6 +28,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioDeLogica", "DesafioD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioDeCodCombinacaoDeMatriz", "DesafioDeCodCombinacaoDeMatriz\DesafioDeCodCombinacaoDeMatriz.csproj", "{34E3FE77-8681-4673-8E53-46AD5B20D0F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioDeCodConverção Numerica", "DesafioDeCodConverção Numerica\DesafioDeCodConverção Numerica.csproj", "{352EAE63-E3A6-4BFF-80AA-640F6C14403D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -86,6 +88,10 @@ Global
 		{34E3FE77-8681-4673-8E53-46AD5B20D0F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34E3FE77-8681-4673-8E53-46AD5B20D0F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34E3FE77-8681-4673-8E53-46AD5B20D0F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{352EAE63-E3A6-4BFF-80AA-640F6C14403D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{352EAE63-E3A6-4BFF-80AA-640F6C14403D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{352EAE63-E3A6-4BFF-80AA-640F6C14403D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{352EAE63-E3A6-4BFF-80AA-640F6C14403D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
