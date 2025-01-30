@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\VSCodeProjects\\CSHARP\\Desafios\\DesafioDeCodConverção Numerica\\DesafioDeCodConverção Numerica.csproj",
+      "projectUniqueName": "C:\\VSCodeProjects\\CSHARP\\Desafios\\DesafioDeCodConversaoNumerica\\DesafioDeCodConverção Numerica.csproj",
       "projectName": "DesafioDeCodConverção Numerica",
-      "projectPath": "C:\\VSCodeProjects\\CSHARP\\Desafios\\DesafioDeCodConverção Numerica\\DesafioDeCodConverção Numerica.csproj",
+      "projectPath": "C:\\VSCodeProjects\\CSHARP\\Desafios\\DesafioDeCodConversaoNumerica\\DesafioDeCodConverção Numerica.csproj",
       "packagesPath": "C:\\Users\\sofia\\.nuget\\packages\\",
-      "outputPath": "C:\\VSCodeProjects\\CSHARP\\Desafios\\DesafioDeCodConverção Numerica\\obj\\",
+      "outputPath": "C:\\VSCodeProjects\\CSHARP\\Desafios\\DesafioDeCodConversaoNumerica\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sofia\\AppData\\Roaming\\NuGet\\NuGet.Config"
