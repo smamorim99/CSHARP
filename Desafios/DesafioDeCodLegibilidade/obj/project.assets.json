@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DIO- Git e GitHub\\CSHARP\\DesafioDeCodLegibilidade\\DesafioDeCodLegibilidade.csproj",
+      "projectUniqueName": "C:\\VSCodeProjects\\CSHARP\\Desafios\\DesafioDeCodLegibilidade\\DesafioDeCodLegibilidade.csproj",
       "projectName": "DesafioDeCodLegibilidade",
-      "projectPath": "C:\\DIO- Git e GitHub\\CSHARP\\DesafioDeCodLegibilidade\\DesafioDeCodLegibilidade.csproj",
+      "projectPath": "C:\\VSCodeProjects\\CSHARP\\Desafios\\DesafioDeCodLegibilidade\\DesafioDeCodLegibilidade.csproj",
       "packagesPath": "C:\\Users\\sofia\\.nuget\\packages\\",
-      "outputPath": "C:\\DIO- Git e GitHub\\CSHARP\\DesafioDeCodLegibilidade\\obj\\",
+      "outputPath": "C:\\VSCodeProjects\\CSHARP\\Desafios\\DesafioDeCodLegibilidade\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sofia\\AppData\\Roaming\\NuGet\\NuGet.Config"

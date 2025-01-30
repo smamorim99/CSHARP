@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DIO- Git e GitHub\\CSHARP\\DesafioBlocodeCod\\DesafioBlocodeCod.csproj",
+      "projectUniqueName": "C:\\VSCodeProjects\\CSHARP\\Desafios\\DesafioBlocodeCod\\DesafioBlocodeCod.csproj",
       "projectName": "DesafioBlocodeCod",
-      "projectPath": "C:\\DIO- Git e GitHub\\CSHARP\\DesafioBlocodeCod\\DesafioBlocodeCod.csproj",
+      "projectPath": "C:\\VSCodeProjects\\CSHARP\\Desafios\\DesafioBlocodeCod\\DesafioBlocodeCod.csproj",
       "packagesPath": "C:\\Users\\sofia\\.nuget\\packages\\",
-      "outputPath": "C:\\DIO- Git e GitHub\\CSHARP\\DesafioBlocodeCod\\obj\\",
+      "outputPath": "C:\\VSCodeProjects\\CSHARP\\Desafios\\DesafioBlocodeCod\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sofia\\AppData\\Roaming\\NuGet\\NuGet.Config"

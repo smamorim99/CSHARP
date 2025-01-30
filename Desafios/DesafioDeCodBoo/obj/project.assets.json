@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DIO- Git e GitHub\\CSHARP\\DesafioDeCodBoo\\DesafioDeCodBoo.csproj",
+      "projectUniqueName": "C:\\VSCodeProjects\\CSHARP\\Desafios\\DesafioDeCodBoo\\DesafioDeCodBoo.csproj",
       "projectName": "DesafioDeCodBoo",
-      "projectPath": "C:\\DIO- Git e GitHub\\CSHARP\\DesafioDeCodBoo\\DesafioDeCodBoo.csproj",
+      "projectPath": "C:\\VSCodeProjects\\CSHARP\\Desafios\\DesafioDeCodBoo\\DesafioDeCodBoo.csproj",
       "packagesPath": "C:\\Users\\sofia\\.nuget\\packages\\",
-      "outputPath": "C:\\DIO- Git e GitHub\\CSHARP\\DesafioDeCodBoo\\obj\\",
+      "outputPath": "C:\\VSCodeProjects\\CSHARP\\Desafios\\DesafioDeCodBoo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sofia\\AppData\\Roaming\\NuGet\\NuGet.Config"

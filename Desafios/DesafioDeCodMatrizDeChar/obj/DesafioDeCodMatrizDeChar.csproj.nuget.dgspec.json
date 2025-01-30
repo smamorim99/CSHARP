@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DIO- Git e GitHub\\CSHARP\\DesafioDeCodMatrizDeChar\\DesafioDeCodMatrizDeChar.csproj": {}
+    "C:\\VSCodeProjects\\CSHARP\\Desafios\\DesafioDeCodMatrizDeChar\\DesafioDeCodMatrizDeChar.csproj": {}
   },
   "projects": {
-    "C:\\DIO- Git e GitHub\\CSHARP\\DesafioDeCodMatrizDeChar\\DesafioDeCodMatrizDeChar.csproj": {
+    "C:\\VSCodeProjects\\CSHARP\\Desafios\\DesafioDeCodMatrizDeChar\\DesafioDeCodMatrizDeChar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DIO- Git e GitHub\\CSHARP\\DesafioDeCodMatrizDeChar\\DesafioDeCodMatrizDeChar.csproj",
+        "projectUniqueName": "C:\\VSCodeProjects\\CSHARP\\Desafios\\DesafioDeCodMatrizDeChar\\DesafioDeCodMatrizDeChar.csproj",
         "projectName": "DesafioDeCodMatrizDeChar",
-        "projectPath": "C:\\DIO- Git e GitHub\\CSHARP\\DesafioDeCodMatrizDeChar\\DesafioDeCodMatrizDeChar.csproj",
+        "projectPath": "C:\\VSCodeProjects\\CSHARP\\Desafios\\DesafioDeCodMatrizDeChar\\DesafioDeCodMatrizDeChar.csproj",
         "packagesPath": "C:\\Users\\sofia\\.nuget\\packages\\",
-        "outputPath": "C:\\DIO- Git e GitHub\\CSHARP\\DesafioDeCodMatrizDeChar\\obj\\",
+        "outputPath": "C:\\VSCodeProjects\\CSHARP\\Desafios\\DesafioDeCodMatrizDeChar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sofia\\AppData\\Roaming\\NuGet\\NuGet.Config"

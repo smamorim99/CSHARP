@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DIO- Git e GitHub\\CSHARP\\DesafioDeCodRPG\\DesafioDeCodRPG.csproj",
+      "projectUniqueName": "C:\\VSCodeProjects\\CSHARP\\Desafios\\DesafioDeCodRPG\\DesafioDeCodRPG.csproj",
       "projectName": "DesafioDeCodRPG",
-      "projectPath": "C:\\DIO- Git e GitHub\\CSHARP\\DesafioDeCodRPG\\DesafioDeCodRPG.csproj",
+      "projectPath": "C:\\VSCodeProjects\\CSHARP\\Desafios\\DesafioDeCodRPG\\DesafioDeCodRPG.csproj",
       "packagesPath": "C:\\Users\\sofia\\.nuget\\packages\\",
-      "outputPath": "C:\\DIO- Git e GitHub\\CSHARP\\DesafioDeCodRPG\\obj\\",
+      "outputPath": "C:\\VSCodeProjects\\CSHARP\\Desafios\\DesafioDeCodRPG\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sofia\\AppData\\Roaming\\NuGet\\NuGet.Config"

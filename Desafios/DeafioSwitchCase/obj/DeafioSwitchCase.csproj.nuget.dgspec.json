@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DIO- Git e GitHub\\CSHARP\\DeafioSwitchCase\\DeafioSwitchCase.csproj": {}
+    "C:\\VSCodeProjects\\CSHARP\\Desafios\\DeafioSwitchCase\\DeafioSwitchCase.csproj": {}
   },
   "projects": {
-    "C:\\DIO- Git e GitHub\\CSHARP\\DeafioSwitchCase\\DeafioSwitchCase.csproj": {
+    "C:\\VSCodeProjects\\CSHARP\\Desafios\\DeafioSwitchCase\\DeafioSwitchCase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DIO- Git e GitHub\\CSHARP\\DeafioSwitchCase\\DeafioSwitchCase.csproj",
+        "projectUniqueName": "C:\\VSCodeProjects\\CSHARP\\Desafios\\DeafioSwitchCase\\DeafioSwitchCase.csproj",
         "projectName": "DeafioSwitchCase",
-        "projectPath": "C:\\DIO- Git e GitHub\\CSHARP\\DeafioSwitchCase\\DeafioSwitchCase.csproj",
+        "projectPath": "C:\\VSCodeProjects\\CSHARP\\Desafios\\DeafioSwitchCase\\DeafioSwitchCase.csproj",
         "packagesPath": "C:\\Users\\sofia\\.nuget\\packages\\",
-        "outputPath": "C:\\DIO- Git e GitHub\\CSHARP\\DeafioSwitchCase\\obj\\",
+        "outputPath": "C:\\VSCodeProjects\\CSHARP\\Desafios\\DeafioSwitchCase\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sofia\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DIO- Git e GitHub\\CSHARP\\DesafiodeCodValirdarEntrada\\DesafiodeCodValirdarEntrada.csproj": {}
+    "C:\\VSCodeProjects\\CSHARP\\Desafios\\DesafiodeCodValirdarEntrada\\DesafiodeCodValirdarEntrada.csproj": {}
   },
   "projects": {
-    "C:\\DIO- Git e GitHub\\CSHARP\\DesafiodeCodValirdarEntrada\\DesafiodeCodValirdarEntrada.csproj": {
+    "C:\\VSCodeProjects\\CSHARP\\Desafios\\DesafiodeCodValirdarEntrada\\DesafiodeCodValirdarEntrada.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DIO- Git e GitHub\\CSHARP\\DesafiodeCodValirdarEntrada\\DesafiodeCodValirdarEntrada.csproj",
+        "projectUniqueName": "C:\\VSCodeProjects\\CSHARP\\Desafios\\DesafiodeCodValirdarEntrada\\DesafiodeCodValirdarEntrada.csproj",
         "projectName": "DesafiodeCodValirdarEntrada",
-        "projectPath": "C:\\DIO- Git e GitHub\\CSHARP\\DesafiodeCodValirdarEntrada\\DesafiodeCodValirdarEntrada.csproj",
+        "projectPath": "C:\\VSCodeProjects\\CSHARP\\Desafios\\DesafiodeCodValirdarEntrada\\DesafiodeCodValirdarEntrada.csproj",
         "packagesPath": "C:\\Users\\sofia\\.nuget\\packages\\",
-        "outputPath": "C:\\DIO- Git e GitHub\\CSHARP\\DesafiodeCodValirdarEntrada\\obj\\",
+        "outputPath": "C:\\VSCodeProjects\\CSHARP\\Desafios\\DesafiodeCodValirdarEntrada\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sofia\\AppData\\Roaming\\NuGet\\NuGet.Config"

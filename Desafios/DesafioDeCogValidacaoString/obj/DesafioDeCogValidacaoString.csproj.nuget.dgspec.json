@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DIO- Git e GitHub\\CSHARP\\DesafioDeCogValidacaoString\\DesafioDeCogValidacaoString.csproj": {}
+    "C:\\VSCodeProjects\\CSHARP\\Desafios\\DesafioDeCogValidacaoString\\DesafioDeCogValidacaoString.csproj": {}
   },
   "projects": {
-    "C:\\DIO- Git e GitHub\\CSHARP\\DesafioDeCogValidacaoString\\DesafioDeCogValidacaoString.csproj": {
+    "C:\\VSCodeProjects\\CSHARP\\Desafios\\DesafioDeCogValidacaoString\\DesafioDeCogValidacaoString.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DIO- Git e GitHub\\CSHARP\\DesafioDeCogValidacaoString\\DesafioDeCogValidacaoString.csproj",
+        "projectUniqueName": "C:\\VSCodeProjects\\CSHARP\\Desafios\\DesafioDeCogValidacaoString\\DesafioDeCogValidacaoString.csproj",
         "projectName": "DesafioDeCogValidacaoString",
-        "projectPath": "C:\\DIO- Git e GitHub\\CSHARP\\DesafioDeCogValidacaoString\\DesafioDeCogValidacaoString.csproj",
+        "projectPath": "C:\\VSCodeProjects\\CSHARP\\Desafios\\DesafioDeCogValidacaoString\\DesafioDeCogValidacaoString.csproj",
         "packagesPath": "C:\\Users\\sofia\\.nuget\\packages\\",
-        "outputPath": "C:\\DIO- Git e GitHub\\CSHARP\\DesafioDeCogValidacaoString\\obj\\",
+        "outputPath": "C:\\VSCodeProjects\\CSHARP\\Desafios\\DesafioDeCogValidacaoString\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sofia\\AppData\\Roaming\\NuGet\\NuGet.Config"

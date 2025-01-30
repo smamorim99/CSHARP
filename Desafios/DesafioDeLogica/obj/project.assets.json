@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DIO- Git e GitHub\\CSHARP\\DesafioDeLogica\\DesafioDeLogica.csproj",
+      "projectUniqueName": "C:\\VSCodeProjects\\CSHARP\\Desafios\\DesafioDeLogica\\DesafioDeLogica.csproj",
       "projectName": "DesafioDeLogica",
-      "projectPath": "C:\\DIO- Git e GitHub\\CSHARP\\DesafioDeLogica\\DesafioDeLogica.csproj",
+      "projectPath": "C:\\VSCodeProjects\\CSHARP\\Desafios\\DesafioDeLogica\\DesafioDeLogica.csproj",
       "packagesPath": "C:\\Users\\sofia\\.nuget\\packages\\",
-      "outputPath": "C:\\DIO- Git e GitHub\\CSHARP\\DesafioDeLogica\\obj\\",
+      "outputPath": "C:\\VSCodeProjects\\CSHARP\\Desafios\\DesafioDeLogica\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sofia\\AppData\\Roaming\\NuGet\\NuGet.Config"

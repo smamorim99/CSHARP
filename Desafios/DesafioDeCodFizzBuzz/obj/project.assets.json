@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DIO- Git e GitHub\\CSHARP\\DesafioDeCodFizzBuzz\\DesafioDeCodFizzBuzz.csproj",
+      "projectUniqueName": "C:\\VSCodeProjects\\CSHARP\\Desafios\\DesafioDeCodFizzBuzz\\DesafioDeCodFizzBuzz.csproj",
       "projectName": "DesafioDeCodFizzBuzz",
-      "projectPath": "C:\\DIO- Git e GitHub\\CSHARP\\DesafioDeCodFizzBuzz\\DesafioDeCodFizzBuzz.csproj",
+      "projectPath": "C:\\VSCodeProjects\\CSHARP\\Desafios\\DesafioDeCodFizzBuzz\\DesafioDeCodFizzBuzz.csproj",
       "packagesPath": "C:\\Users\\sofia\\.nuget\\packages\\",
-      "outputPath": "C:\\DIO- Git e GitHub\\CSHARP\\DesafioDeCodFizzBuzz\\obj\\",
+      "outputPath": "C:\\VSCodeProjects\\CSHARP\\Desafios\\DesafioDeCodFizzBuzz\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sofia\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+C:\VSCodeProjects\CSHARP\Desafios\DesafioDeCodCombinacaoDeMatriz\bin\Debug\net9.0\DesafioDeCodCombinacaoDeMatriz.exe
+C:\VSCodeProjects\CSHARP\Desafios\DesafioDeCodCombinacaoDeMatriz\bin\Debug\net9.0\DesafioDeCodCombinacaoDeMatriz.deps.json
+C:\VSCodeProjects\CSHARP\Desafios\DesafioDeCodCombinacaoDeMatriz\bin\Debug\net9.0\DesafioDeCodCombinacaoDeMatriz.runtimeconfig.json
+C:\VSCodeProjects\CSHARP\Desafios\DesafioDeCodCombinacaoDeMatriz\bin\Debug\net9.0\DesafioDeCodCombinacaoDeMatriz.dll
+C:\VSCodeProjects\CSHARP\Desafios\DesafioDeCodCombinacaoDeMatriz\bin\Debug\net9.0\DesafioDeCodCombinacaoDeMatriz.pdb
+C:\VSCodeProjects\CSHARP\Desafios\DesafioDeCodCombinacaoDeMatriz\obj\Debug\net9.0\DesafioDeCodCombinacaoDeMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCodeProjects\CSHARP\Desafios\DesafioDeCodCombinacaoDeMatriz\obj\Debug\net9.0\DesafioDeCodCombinacaoDeMatriz.AssemblyInfoInputs.cache
+C:\VSCodeProjects\CSHARP\Desafios\DesafioDeCodCombinacaoDeMatriz\obj\Debug\net9.0\DesafioDeCodCombinacaoDeMatriz.AssemblyInfo.cs
+C:\VSCodeProjects\CSHARP\Desafios\DesafioDeCodCombinacaoDeMatriz\obj\Debug\net9.0\DesafioDeCodCombinacaoDeMatriz.csproj.CoreCompileInputs.cache
+C:\VSCodeProjects\CSHARP\Desafios\DesafioDeCodCombinacaoDeMatriz\obj\Debug\net9.0\DesafioDeCodCombinacaoDeMatriz.sourcelink.json
+C:\VSCodeProjects\CSHARP\Desafios\DesafioDeCodCombinacaoDeMatriz\obj\Debug\net9.0\DesafioDeCodCombinacaoDeMatriz.dll
+C:\VSCodeProjects\CSHARP\Desafios\DesafioDeCodCombinacaoDeMatriz\obj\Debug\net9.0\refint\DesafioDeCodCombinacaoDeMatriz.dll
+C:\VSCodeProjects\CSHARP\Desafios\DesafioDeCodCombinacaoDeMatriz\obj\Debug\net9.0\DesafioDeCodCombinacaoDeMatriz.pdb
+C:\VSCodeProjects\CSHARP\Desafios\DesafioDeCodCombinacaoDeMatriz\obj\Debug\net9.0\DesafioDeCodCombinacaoDeMatriz.genruntimeconfig.cache
+C:\VSCodeProjects\CSHARP\Desafios\DesafioDeCodCombinacaoDeMatriz\obj\Debug\net9.0\ref\DesafioDeCodCombinacaoDeMatriz.dll
