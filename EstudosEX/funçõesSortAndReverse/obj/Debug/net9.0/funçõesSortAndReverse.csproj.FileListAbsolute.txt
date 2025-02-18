@@ -1,0 +1,15 @@
+C:\VSCodeProjects\CSHARP\EstudosEX\funçõesSortAndReverse\obj\Debug\net9.0\funçõesSortAndReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCodeProjects\CSHARP\EstudosEX\funçõesSortAndReverse\obj\Debug\net9.0\funçõesSortAndReverse.AssemblyInfoInputs.cache
+C:\VSCodeProjects\CSHARP\EstudosEX\funçõesSortAndReverse\obj\Debug\net9.0\funçõesSortAndReverse.AssemblyInfo.cs
+C:\VSCodeProjects\CSHARP\EstudosEX\funçõesSortAndReverse\obj\Debug\net9.0\funçõesSortAndReverse.csproj.CoreCompileInputs.cache
+C:\VSCodeProjects\CSHARP\EstudosEX\funçõesSortAndReverse\obj\Debug\net9.0\funçõesSortAndReverse.sourcelink.json
+C:\VSCodeProjects\CSHARP\EstudosEX\funçõesSortAndReverse\bin\Debug\net9.0\funçõesSortAndReverse.exe
+C:\VSCodeProjects\CSHARP\EstudosEX\funçõesSortAndReverse\bin\Debug\net9.0\funçõesSortAndReverse.deps.json
+C:\VSCodeProjects\CSHARP\EstudosEX\funçõesSortAndReverse\bin\Debug\net9.0\funçõesSortAndReverse.runtimeconfig.json
+C:\VSCodeProjects\CSHARP\EstudosEX\funçõesSortAndReverse\bin\Debug\net9.0\funçõesSortAndReverse.dll
+C:\VSCodeProjects\CSHARP\EstudosEX\funçõesSortAndReverse\bin\Debug\net9.0\funçõesSortAndReverse.pdb
+C:\VSCodeProjects\CSHARP\EstudosEX\funçõesSortAndReverse\obj\Debug\net9.0\funçõesSortAndReverse.dll
+C:\VSCodeProjects\CSHARP\EstudosEX\funçõesSortAndReverse\obj\Debug\net9.0\refint\funçõesSortAndReverse.dll
+C:\VSCodeProjects\CSHARP\EstudosEX\funçõesSortAndReverse\obj\Debug\net9.0\funçõesSortAndReverse.pdb
+C:\VSCodeProjects\CSHARP\EstudosEX\funçõesSortAndReverse\obj\Debug\net9.0\funçõesSortAndReverse.genruntimeconfig.cache
+C:\VSCodeProjects\CSHARP\EstudosEX\funçõesSortAndReverse\obj\Debug\net9.0\ref\funçõesSortAndReverse.dll
