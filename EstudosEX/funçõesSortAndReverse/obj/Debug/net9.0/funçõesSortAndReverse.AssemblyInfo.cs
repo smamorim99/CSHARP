@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("funçõesSortAndReverse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e28bd439af112cbb62efa7e5a7ad536e774d1159")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5e39472b0c4647cccddd57df4502b2e45075944")]
 [assembly: System.Reflection.AssemblyProductAttribute("funçõesSortAndReverse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("funçõesSortAndReverse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

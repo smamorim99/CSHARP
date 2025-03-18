@@ -1,0 +1,15 @@
+C:\VSCodeProjects\CSHARP\ExerciciosLógica\bin\Debug\net9.0\ExerciciosLógica.exe
+C:\VSCodeProjects\CSHARP\ExerciciosLógica\bin\Debug\net9.0\ExerciciosLógica.deps.json
+C:\VSCodeProjects\CSHARP\ExerciciosLógica\bin\Debug\net9.0\ExerciciosLógica.runtimeconfig.json
+C:\VSCodeProjects\CSHARP\ExerciciosLógica\bin\Debug\net9.0\ExerciciosLógica.dll
+C:\VSCodeProjects\CSHARP\ExerciciosLógica\bin\Debug\net9.0\ExerciciosLógica.pdb
+C:\VSCodeProjects\CSHARP\ExerciciosLógica\obj\Debug\net9.0\ExerciciosLógica.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCodeProjects\CSHARP\ExerciciosLógica\obj\Debug\net9.0\ExerciciosLógica.AssemblyInfoInputs.cache
+C:\VSCodeProjects\CSHARP\ExerciciosLógica\obj\Debug\net9.0\ExerciciosLógica.AssemblyInfo.cs
+C:\VSCodeProjects\CSHARP\ExerciciosLógica\obj\Debug\net9.0\ExerciciosLógica.csproj.CoreCompileInputs.cache
+C:\VSCodeProjects\CSHARP\ExerciciosLógica\obj\Debug\net9.0\ExerciciosLógica.sourcelink.json
+C:\VSCodeProjects\CSHARP\ExerciciosLógica\obj\Debug\net9.0\ExerciciosLógica.dll
+C:\VSCodeProjects\CSHARP\ExerciciosLógica\obj\Debug\net9.0\refint\ExerciciosLógica.dll
+C:\VSCodeProjects\CSHARP\ExerciciosLógica\obj\Debug\net9.0\ExerciciosLógica.pdb
+C:\VSCodeProjects\CSHARP\ExerciciosLógica\obj\Debug\net9.0\ExerciciosLógica.genruntimeconfig.cache
+C:\VSCodeProjects\CSHARP\ExerciciosLógica\obj\Debug\net9.0\ref\ExerciciosLógica.dll
