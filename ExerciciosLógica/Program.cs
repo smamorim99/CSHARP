@@ -67,8 +67,20 @@ Console.WriteLine($"O usuario recebe  {Math.Round(qtdSalarios)} slarios minimos"
 
 using System.Data;
 
-int valor = Convert.ToInt32(Console.ReadLine());
+/*int valor = Convert.ToInt32(Console.ReadLine());
 double porcentagem = valor * 0.05;
 int reajuste = valor - (int)porcentagem;
-Console.WriteLine($"O valor com reajuste é {reajuste}");
+Console.WriteLine($"O valor com reajuste é {reajuste}");*/
+
+ void Multiplicação (Multiplicacao)
+{
+    int numA = Convert.ToInt32(Console.ReadLine());
+    int multiplicacão;
+    for(int i = 0; i <= 10; i++)
+    {
+        multiplicacão = numA * 1;
+        Console.WriteLine(multiplicacão);
+
+    }
+}
     
