@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExercicioBlocosDeCod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5e39472b0c4647cccddd57df4502b2e45075944")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bba12918aac375f82c075ed80fa95dc9e31bd2b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExercicioBlocosDeCod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExercicioBlocosDeCod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

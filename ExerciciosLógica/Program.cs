@@ -72,7 +72,7 @@ double porcentagem = valor * 0.05;
 int reajuste = valor - (int)porcentagem;
 Console.WriteLine($"O valor com reajuste é {reajuste}");*/
 
- void Multiplicação (Multiplicacao)bbbbbbbbbb
+ void Multiplicação (Multiplicacao)
 {
     int numA = Convert.ToInt32(Console.ReadLine());
     int multiplicacão;
