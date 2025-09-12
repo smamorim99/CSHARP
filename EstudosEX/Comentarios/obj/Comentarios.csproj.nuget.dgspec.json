@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DIO- Git e GitHub\\CSHARP\\Comentarios\\Comentarios.csproj": {}
+    "C:\\VSCodeProjects\\CSHARP\\EstudosEX\\Comentarios\\Comentarios.csproj": {}
   },
   "projects": {
-    "C:\\DIO- Git e GitHub\\CSHARP\\Comentarios\\Comentarios.csproj": {
+    "C:\\VSCodeProjects\\CSHARP\\EstudosEX\\Comentarios\\Comentarios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DIO- Git e GitHub\\CSHARP\\Comentarios\\Comentarios.csproj",
+        "projectUniqueName": "C:\\VSCodeProjects\\CSHARP\\EstudosEX\\Comentarios\\Comentarios.csproj",
         "projectName": "Comentarios",
-        "projectPath": "C:\\DIO- Git e GitHub\\CSHARP\\Comentarios\\Comentarios.csproj",
+        "projectPath": "C:\\VSCodeProjects\\CSHARP\\EstudosEX\\Comentarios\\Comentarios.csproj",
         "packagesPath": "C:\\Users\\sofia\\.nuget\\packages\\",
-        "outputPath": "C:\\DIO- Git e GitHub\\CSHARP\\Comentarios\\obj\\",
+        "outputPath": "C:\\VSCodeProjects\\CSHARP\\EstudosEX\\Comentarios\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sofia\\AppData\\Roaming\\NuGet\\NuGet.Config"

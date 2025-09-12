@@ -13,3 +13,18 @@ C:\DIO- Git e GitHub\CSHARP\Comentarios\obj\Debug\net9.0\refint\Comentarios.dll
 C:\DIO- Git e GitHub\CSHARP\Comentarios\obj\Debug\net9.0\Comentarios.pdb
 C:\DIO- Git e GitHub\CSHARP\Comentarios\obj\Debug\net9.0\Comentarios.genruntimeconfig.cache
 C:\DIO- Git e GitHub\CSHARP\Comentarios\obj\Debug\net9.0\ref\Comentarios.dll
+C:\VSCodeProjects\CSHARP\EstudosEX\Comentarios\bin\Debug\net9.0\Comentarios.exe
+C:\VSCodeProjects\CSHARP\EstudosEX\Comentarios\bin\Debug\net9.0\Comentarios.deps.json
+C:\VSCodeProjects\CSHARP\EstudosEX\Comentarios\bin\Debug\net9.0\Comentarios.runtimeconfig.json
+C:\VSCodeProjects\CSHARP\EstudosEX\Comentarios\bin\Debug\net9.0\Comentarios.dll
+C:\VSCodeProjects\CSHARP\EstudosEX\Comentarios\bin\Debug\net9.0\Comentarios.pdb
+C:\VSCodeProjects\CSHARP\EstudosEX\Comentarios\obj\Debug\net9.0\Comentarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCodeProjects\CSHARP\EstudosEX\Comentarios\obj\Debug\net9.0\Comentarios.AssemblyInfoInputs.cache
+C:\VSCodeProjects\CSHARP\EstudosEX\Comentarios\obj\Debug\net9.0\Comentarios.AssemblyInfo.cs
+C:\VSCodeProjects\CSHARP\EstudosEX\Comentarios\obj\Debug\net9.0\Comentarios.csproj.CoreCompileInputs.cache
+C:\VSCodeProjects\CSHARP\EstudosEX\Comentarios\obj\Debug\net9.0\Comentarios.sourcelink.json
+C:\VSCodeProjects\CSHARP\EstudosEX\Comentarios\obj\Debug\net9.0\Comentarios.dll
+C:\VSCodeProjects\CSHARP\EstudosEX\Comentarios\obj\Debug\net9.0\refint\Comentarios.dll
+C:\VSCodeProjects\CSHARP\EstudosEX\Comentarios\obj\Debug\net9.0\Comentarios.pdb
+C:\VSCodeProjects\CSHARP\EstudosEX\Comentarios\obj\Debug\net9.0\Comentarios.genruntimeconfig.cache
+C:\VSCodeProjects\CSHARP\EstudosEX\Comentarios\obj\Debug\net9.0\ref\Comentarios.dll

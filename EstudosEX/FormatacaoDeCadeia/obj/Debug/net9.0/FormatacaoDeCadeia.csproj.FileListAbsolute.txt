@@ -1,0 +1,15 @@
+C:\VSCodeProjects\CSHARP\EstudosEX\FormatacaoDeCadeia\bin\Debug\net9.0\FormatacaoDeCadeia.exe
+C:\VSCodeProjects\CSHARP\EstudosEX\FormatacaoDeCadeia\bin\Debug\net9.0\FormatacaoDeCadeia.deps.json
+C:\VSCodeProjects\CSHARP\EstudosEX\FormatacaoDeCadeia\bin\Debug\net9.0\FormatacaoDeCadeia.runtimeconfig.json
+C:\VSCodeProjects\CSHARP\EstudosEX\FormatacaoDeCadeia\bin\Debug\net9.0\FormatacaoDeCadeia.dll
+C:\VSCodeProjects\CSHARP\EstudosEX\FormatacaoDeCadeia\bin\Debug\net9.0\FormatacaoDeCadeia.pdb
+C:\VSCodeProjects\CSHARP\EstudosEX\FormatacaoDeCadeia\obj\Debug\net9.0\FormatacaoDeCadeia.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCodeProjects\CSHARP\EstudosEX\FormatacaoDeCadeia\obj\Debug\net9.0\FormatacaoDeCadeia.AssemblyInfoInputs.cache
+C:\VSCodeProjects\CSHARP\EstudosEX\FormatacaoDeCadeia\obj\Debug\net9.0\FormatacaoDeCadeia.AssemblyInfo.cs
+C:\VSCodeProjects\CSHARP\EstudosEX\FormatacaoDeCadeia\obj\Debug\net9.0\FormatacaoDeCadeia.csproj.CoreCompileInputs.cache
+C:\VSCodeProjects\CSHARP\EstudosEX\FormatacaoDeCadeia\obj\Debug\net9.0\FormatacaoDeCadeia.sourcelink.json
+C:\VSCodeProjects\CSHARP\EstudosEX\FormatacaoDeCadeia\obj\Debug\net9.0\FormatacaoDeCadeia.dll
+C:\VSCodeProjects\CSHARP\EstudosEX\FormatacaoDeCadeia\obj\Debug\net9.0\refint\FormatacaoDeCadeia.dll
+C:\VSCodeProjects\CSHARP\EstudosEX\FormatacaoDeCadeia\obj\Debug\net9.0\FormatacaoDeCadeia.pdb
+C:\VSCodeProjects\CSHARP\EstudosEX\FormatacaoDeCadeia\obj\Debug\net9.0\FormatacaoDeCadeia.genruntimeconfig.cache
+C:\VSCodeProjects\CSHARP\EstudosEX\FormatacaoDeCadeia\obj\Debug\net9.0\ref\FormatacaoDeCadeia.dll

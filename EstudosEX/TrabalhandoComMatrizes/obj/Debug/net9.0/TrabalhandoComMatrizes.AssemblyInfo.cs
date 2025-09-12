@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TrabalhandoComMatrizes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bba12918aac375f82c075ed80fa95dc9e31bd2b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb72255b58b35078c3393ab692d027c1d3984f34")]
 [assembly: System.Reflection.AssemblyProductAttribute("TrabalhandoComMatrizes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TrabalhandoComMatrizes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

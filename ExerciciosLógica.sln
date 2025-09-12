@@ -5,6 +5,14 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciciosLógica", "ExerciciosLógica\ExerciciosLógica.csproj", "{5873B502-C446-4239-8004-01FC38B72F58}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EstudosEX", "EstudosEX", "{22394694-B28D-4BA9-A72B-A5E20FBAB03A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormatacaoDeCadeia", "EstudosEX\FormatacaoDeCadeia\FormatacaoDeCadeia.csproj", "{35250534-E85B-46B6-B391-2C83CD1735D2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Desafios", "Desafios", "{EAC7A560-A19E-479F-9B4B-3D2C3FF16093}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioFormatacaoDeCadeia", "Desafios\DesafioFormatacaoDeCadeia\DesafioFormatacaoDeCadeia.csproj", "{548C5F95-D237-472B-BB8D-B0850B7CB1F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +26,17 @@ Global
 		{5873B502-C446-4239-8004-01FC38B72F58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5873B502-C446-4239-8004-01FC38B72F58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5873B502-C446-4239-8004-01FC38B72F58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35250534-E85B-46B6-B391-2C83CD1735D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35250534-E85B-46B6-B391-2C83CD1735D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35250534-E85B-46B6-B391-2C83CD1735D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35250534-E85B-46B6-B391-2C83CD1735D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{548C5F95-D237-472B-BB8D-B0850B7CB1F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{548C5F95-D237-472B-BB8D-B0850B7CB1F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{548C5F95-D237-472B-BB8D-B0850B7CB1F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{548C5F95-D237-472B-BB8D-B0850B7CB1F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{35250534-E85B-46B6-B391-2C83CD1735D2} = {22394694-B28D-4BA9-A72B-A5E20FBAB03A}
+		{548C5F95-D237-472B-BB8D-B0850B7CB1F8} = {EAC7A560-A19E-479F-9B4B-3D2C3FF16093}
 	EndGlobalSection
 EndGlobal

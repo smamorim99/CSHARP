@@ -1,0 +1,15 @@
+C:\VSCodeProjects\CSHARP\Desafios\DesafioFormatacaoDeCadeia\bin\Debug\net9.0\DesafioFormatacaoDeCadeia.exe
+C:\VSCodeProjects\CSHARP\Desafios\DesafioFormatacaoDeCadeia\bin\Debug\net9.0\DesafioFormatacaoDeCadeia.deps.json
+C:\VSCodeProjects\CSHARP\Desafios\DesafioFormatacaoDeCadeia\bin\Debug\net9.0\DesafioFormatacaoDeCadeia.runtimeconfig.json
+C:\VSCodeProjects\CSHARP\Desafios\DesafioFormatacaoDeCadeia\bin\Debug\net9.0\DesafioFormatacaoDeCadeia.dll
+C:\VSCodeProjects\CSHARP\Desafios\DesafioFormatacaoDeCadeia\bin\Debug\net9.0\DesafioFormatacaoDeCadeia.pdb
+C:\VSCodeProjects\CSHARP\Desafios\DesafioFormatacaoDeCadeia\obj\Debug\net9.0\DesafioFormatacaoDeCadeia.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCodeProjects\CSHARP\Desafios\DesafioFormatacaoDeCadeia\obj\Debug\net9.0\DesafioFormatacaoDeCadeia.AssemblyInfoInputs.cache
+C:\VSCodeProjects\CSHARP\Desafios\DesafioFormatacaoDeCadeia\obj\Debug\net9.0\DesafioFormatacaoDeCadeia.AssemblyInfo.cs
+C:\VSCodeProjects\CSHARP\Desafios\DesafioFormatacaoDeCadeia\obj\Debug\net9.0\DesafioFormatacaoDeCadeia.csproj.CoreCompileInputs.cache
+C:\VSCodeProjects\CSHARP\Desafios\DesafioFormatacaoDeCadeia\obj\Debug\net9.0\DesafioFormatacaoDeCadeia.sourcelink.json
+C:\VSCodeProjects\CSHARP\Desafios\DesafioFormatacaoDeCadeia\obj\Debug\net9.0\DesafioFormatacaoDeCadeia.dll
+C:\VSCodeProjects\CSHARP\Desafios\DesafioFormatacaoDeCadeia\obj\Debug\net9.0\refint\DesafioFormatacaoDeCadeia.dll
+C:\VSCodeProjects\CSHARP\Desafios\DesafioFormatacaoDeCadeia\obj\Debug\net9.0\DesafioFormatacaoDeCadeia.pdb
+C:\VSCodeProjects\CSHARP\Desafios\DesafioFormatacaoDeCadeia\obj\Debug\net9.0\DesafioFormatacaoDeCadeia.genruntimeconfig.cache
+C:\VSCodeProjects\CSHARP\Desafios\DesafioFormatacaoDeCadeia\obj\Debug\net9.0\ref\DesafioFormatacaoDeCadeia.dll
