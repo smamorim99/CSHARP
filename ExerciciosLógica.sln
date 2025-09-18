@@ -13,6 +13,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Desafios", "Desafios", "{EA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioFormatacaoDeCadeia", "Desafios\DesafioFormatacaoDeCadeia\DesafioFormatacaoDeCadeia.csproj", "{548C5F95-D237-472B-BB8D-B0850B7CB1F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosAuxString", "EstudosEX\MetodosAuxString\MetodosAuxString.csproj", "{8429A09B-767D-42A1-B013-860C2E274286}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioMetodosAuxString", "Desafios\DesafioMetodosAuxString\DesafioMetodosAuxString.csproj", "{F90BA76D-BDBD-4FA9-8712-8F838098717C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -34,9 +38,19 @@ Global
 		{548C5F95-D237-472B-BB8D-B0850B7CB1F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{548C5F95-D237-472B-BB8D-B0850B7CB1F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{548C5F95-D237-472B-BB8D-B0850B7CB1F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8429A09B-767D-42A1-B013-860C2E274286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8429A09B-767D-42A1-B013-860C2E274286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8429A09B-767D-42A1-B013-860C2E274286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8429A09B-767D-42A1-B013-860C2E274286}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F90BA76D-BDBD-4FA9-8712-8F838098717C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F90BA76D-BDBD-4FA9-8712-8F838098717C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F90BA76D-BDBD-4FA9-8712-8F838098717C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F90BA76D-BDBD-4FA9-8712-8F838098717C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{35250534-E85B-46B6-B391-2C83CD1735D2} = {22394694-B28D-4BA9-A72B-A5E20FBAB03A}
 		{548C5F95-D237-472B-BB8D-B0850B7CB1F8} = {EAC7A560-A19E-479F-9B4B-3D2C3FF16093}
+		{8429A09B-767D-42A1-B013-860C2E274286} = {22394694-B28D-4BA9-A72B-A5E20FBAB03A}
+		{F90BA76D-BDBD-4FA9-8712-8F838098717C} = {EAC7A560-A19E-479F-9B4B-3D2C3FF16093}
 	EndGlobalSection
 EndGlobal

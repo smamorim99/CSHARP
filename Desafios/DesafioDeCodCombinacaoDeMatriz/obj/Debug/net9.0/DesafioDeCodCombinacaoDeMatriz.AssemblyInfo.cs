@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesafioDeCodCombinacaoDeMatriz")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb72255b58b35078c3393ab692d027c1d3984f34")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+931153b2db4e3b730c4d40d4b53f8bf5bebf35b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesafioDeCodCombinacaoDeMatriz")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesafioDeCodCombinacaoDeMatriz")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

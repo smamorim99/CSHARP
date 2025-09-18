@@ -1,0 +1,15 @@
+C:\VSCodeProjects\CSHARP\EstudosEX\MetodosAuxString\bin\Debug\net9.0\MetodosAuxString.exe
+C:\VSCodeProjects\CSHARP\EstudosEX\MetodosAuxString\bin\Debug\net9.0\MetodosAuxString.deps.json
+C:\VSCodeProjects\CSHARP\EstudosEX\MetodosAuxString\bin\Debug\net9.0\MetodosAuxString.runtimeconfig.json
+C:\VSCodeProjects\CSHARP\EstudosEX\MetodosAuxString\bin\Debug\net9.0\MetodosAuxString.dll
+C:\VSCodeProjects\CSHARP\EstudosEX\MetodosAuxString\bin\Debug\net9.0\MetodosAuxString.pdb
+C:\VSCodeProjects\CSHARP\EstudosEX\MetodosAuxString\obj\Debug\net9.0\MetodosAuxString.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCodeProjects\CSHARP\EstudosEX\MetodosAuxString\obj\Debug\net9.0\MetodosAuxString.AssemblyInfoInputs.cache
+C:\VSCodeProjects\CSHARP\EstudosEX\MetodosAuxString\obj\Debug\net9.0\MetodosAuxString.AssemblyInfo.cs
+C:\VSCodeProjects\CSHARP\EstudosEX\MetodosAuxString\obj\Debug\net9.0\MetodosAuxString.csproj.CoreCompileInputs.cache
+C:\VSCodeProjects\CSHARP\EstudosEX\MetodosAuxString\obj\Debug\net9.0\MetodosAuxString.sourcelink.json
+C:\VSCodeProjects\CSHARP\EstudosEX\MetodosAuxString\obj\Debug\net9.0\MetodosAuxString.dll
+C:\VSCodeProjects\CSHARP\EstudosEX\MetodosAuxString\obj\Debug\net9.0\refint\MetodosAuxString.dll
+C:\VSCodeProjects\CSHARP\EstudosEX\MetodosAuxString\obj\Debug\net9.0\MetodosAuxString.pdb
+C:\VSCodeProjects\CSHARP\EstudosEX\MetodosAuxString\obj\Debug\net9.0\MetodosAuxString.genruntimeconfig.cache
+C:\VSCodeProjects\CSHARP\EstudosEX\MetodosAuxString\obj\Debug\net9.0\ref\MetodosAuxString.dll

@@ -1,0 +1,15 @@
+C:\VSCodeProjects\CSHARP\Desafios\DesafioMetodosAuxString\bin\Debug\net9.0\DesafioMetodosAuxString.exe
+C:\VSCodeProjects\CSHARP\Desafios\DesafioMetodosAuxString\bin\Debug\net9.0\DesafioMetodosAuxString.deps.json
+C:\VSCodeProjects\CSHARP\Desafios\DesafioMetodosAuxString\bin\Debug\net9.0\DesafioMetodosAuxString.runtimeconfig.json
+C:\VSCodeProjects\CSHARP\Desafios\DesafioMetodosAuxString\bin\Debug\net9.0\DesafioMetodosAuxString.dll
+C:\VSCodeProjects\CSHARP\Desafios\DesafioMetodosAuxString\bin\Debug\net9.0\DesafioMetodosAuxString.pdb
+C:\VSCodeProjects\CSHARP\Desafios\DesafioMetodosAuxString\obj\Debug\net9.0\DesafioMetodosAuxString.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCodeProjects\CSHARP\Desafios\DesafioMetodosAuxString\obj\Debug\net9.0\DesafioMetodosAuxString.AssemblyInfoInputs.cache
+C:\VSCodeProjects\CSHARP\Desafios\DesafioMetodosAuxString\obj\Debug\net9.0\DesafioMetodosAuxString.AssemblyInfo.cs
+C:\VSCodeProjects\CSHARP\Desafios\DesafioMetodosAuxString\obj\Debug\net9.0\DesafioMetodosAuxString.csproj.CoreCompileInputs.cache
+C:\VSCodeProjects\CSHARP\Desafios\DesafioMetodosAuxString\obj\Debug\net9.0\DesafioMetodosAuxString.sourcelink.json
+C:\VSCodeProjects\CSHARP\Desafios\DesafioMetodosAuxString\obj\Debug\net9.0\DesafioMetodosAuxString.dll
+C:\VSCodeProjects\CSHARP\Desafios\DesafioMetodosAuxString\obj\Debug\net9.0\refint\DesafioMetodosAuxString.dll
+C:\VSCodeProjects\CSHARP\Desafios\DesafioMetodosAuxString\obj\Debug\net9.0\DesafioMetodosAuxString.pdb
+C:\VSCodeProjects\CSHARP\Desafios\DesafioMetodosAuxString\obj\Debug\net9.0\DesafioMetodosAuxString.genruntimeconfig.cache
+C:\VSCodeProjects\CSHARP\Desafios\DesafioMetodosAuxString\obj\Debug\net9.0\ref\DesafioMetodosAuxString.dll
