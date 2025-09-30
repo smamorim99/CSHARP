@@ -13,3 +13,18 @@ C:\DIO- Git e GitHub\CSHARP\ProjetoGuiadoContosoPet\obj\Debug\net9.0\refint\Proj
 C:\DIO- Git e GitHub\CSHARP\ProjetoGuiadoContosoPet\obj\Debug\net9.0\ProjetoGuiadoContosoPet.pdb
 C:\DIO- Git e GitHub\CSHARP\ProjetoGuiadoContosoPet\obj\Debug\net9.0\ProjetoGuiadoContosoPet.genruntimeconfig.cache
 C:\DIO- Git e GitHub\CSHARP\ProjetoGuiadoContosoPet\obj\Debug\net9.0\ref\ProjetoGuiadoContosoPet.dll
+C:\VSCodeProjects\CSHARP\Projetos Guiados\ProjetoGuiadoContosoPet\bin\Debug\net9.0\ProjetoGuiadoContosoPet.exe
+C:\VSCodeProjects\CSHARP\Projetos Guiados\ProjetoGuiadoContosoPet\bin\Debug\net9.0\ProjetoGuiadoContosoPet.deps.json
+C:\VSCodeProjects\CSHARP\Projetos Guiados\ProjetoGuiadoContosoPet\bin\Debug\net9.0\ProjetoGuiadoContosoPet.runtimeconfig.json
+C:\VSCodeProjects\CSHARP\Projetos Guiados\ProjetoGuiadoContosoPet\bin\Debug\net9.0\ProjetoGuiadoContosoPet.dll
+C:\VSCodeProjects\CSHARP\Projetos Guiados\ProjetoGuiadoContosoPet\bin\Debug\net9.0\ProjetoGuiadoContosoPet.pdb
+C:\VSCodeProjects\CSHARP\Projetos Guiados\ProjetoGuiadoContosoPet\obj\Debug\net9.0\ProjetoGuiadoContosoPet.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCodeProjects\CSHARP\Projetos Guiados\ProjetoGuiadoContosoPet\obj\Debug\net9.0\ProjetoGuiadoContosoPet.AssemblyInfoInputs.cache
+C:\VSCodeProjects\CSHARP\Projetos Guiados\ProjetoGuiadoContosoPet\obj\Debug\net9.0\ProjetoGuiadoContosoPet.AssemblyInfo.cs
+C:\VSCodeProjects\CSHARP\Projetos Guiados\ProjetoGuiadoContosoPet\obj\Debug\net9.0\ProjetoGuiadoContosoPet.csproj.CoreCompileInputs.cache
+C:\VSCodeProjects\CSHARP\Projetos Guiados\ProjetoGuiadoContosoPet\obj\Debug\net9.0\ProjetoGuiadoContosoPet.sourcelink.json
+C:\VSCodeProjects\CSHARP\Projetos Guiados\ProjetoGuiadoContosoPet\obj\Debug\net9.0\ProjetoGuiadoContosoPet.dll
+C:\VSCodeProjects\CSHARP\Projetos Guiados\ProjetoGuiadoContosoPet\obj\Debug\net9.0\refint\ProjetoGuiadoContosoPet.dll
+C:\VSCodeProjects\CSHARP\Projetos Guiados\ProjetoGuiadoContosoPet\obj\Debug\net9.0\ProjetoGuiadoContosoPet.pdb
+C:\VSCodeProjects\CSHARP\Projetos Guiados\ProjetoGuiadoContosoPet\obj\Debug\net9.0\ProjetoGuiadoContosoPet.genruntimeconfig.cache
+C:\VSCodeProjects\CSHARP\Projetos Guiados\ProjetoGuiadoContosoPet\obj\Debug\net9.0\ref\ProjetoGuiadoContosoPet.dll

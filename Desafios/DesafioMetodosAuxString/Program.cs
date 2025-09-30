@@ -35,7 +35,7 @@ const string regSymbol = "&reg";
 
 output = input.Replace(copySymbol, regSymbol);
 
-//remove as tags de abertura e fechamento de sessãobb
+//remove as tags de abertura e fechamento de sessão
 const string openSection = "<section>";
 
 int startOpenSection = output.IndexOf(openSection);

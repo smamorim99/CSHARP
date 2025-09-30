@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DIO- Git e GitHub\\CSHARP\\ProjetoGuiadoContosoPet\\ProjetoGuiadoContosoPet.csproj",
+      "projectUniqueName": "C:\\VSCodeProjects\\CSHARP\\Projetos Guiados\\ProjetoGuiadoContosoPet\\ProjetoGuiadoContosoPet.csproj",
       "projectName": "ProjetoGuiadoContosoPet",
-      "projectPath": "C:\\DIO- Git e GitHub\\CSHARP\\ProjetoGuiadoContosoPet\\ProjetoGuiadoContosoPet.csproj",
+      "projectPath": "C:\\VSCodeProjects\\CSHARP\\Projetos Guiados\\ProjetoGuiadoContosoPet\\ProjetoGuiadoContosoPet.csproj",
       "packagesPath": "C:\\Users\\sofia\\.nuget\\packages\\",
-      "outputPath": "C:\\DIO- Git e GitHub\\CSHARP\\ProjetoGuiadoContosoPet\\obj\\",
+      "outputPath": "C:\\VSCodeProjects\\CSHARP\\Projetos Guiados\\ProjetoGuiadoContosoPet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sofia\\AppData\\Roaming\\NuGet\\NuGet.Config"
