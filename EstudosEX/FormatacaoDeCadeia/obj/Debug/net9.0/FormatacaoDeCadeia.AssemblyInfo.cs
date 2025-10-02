@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FormatacaoDeCadeia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03640d32337e5cded309cd2111d2239b370505b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26fa9cdd90b6c143f0dcfd3472d1b019569e3702")]
 [assembly: System.Reflection.AssemblyProductAttribute("FormatacaoDeCadeia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FormatacaoDeCadeia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
